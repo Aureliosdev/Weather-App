@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
-options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
-build_start_time: [1643619515, 39204120]
-build_end_time: [1643619519, 98615169]
-inputs:
-  "/Users/aurelioleclarke/Desktop/Github Projects/Weather App/Weather App/AppDelegate.swift": [1643611429, 433839797]
-  "/Users/aurelioleclarke/Desktop/Github Projects/Weather App/Weather App/SceneDelegate.swift": [1643611429, 438586950]
-  "/Users/aurelioleclarke/Desktop/Github Projects/Weather App/Weather App/ViewController.swift": [1643619514, 63816070]
